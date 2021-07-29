@@ -1,2 +1,2 @@
 # FinalGame
-Tetris
+Tetris implemented with Java Swing. 
