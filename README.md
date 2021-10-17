@@ -1,4 +1,4 @@
-# FinalGame
+# Tetris Java Swing Game
 A full Java application recreating the classic game of Tetris.
 
 The **Java Swing UI** offered the user options to input a username to be considered for the leaderboard which was processed by File I/O after processing the score of the player's turn. The UI also offered options to reset the game, open the instructions, and control the pieces (arrow keys + space).
